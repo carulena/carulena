@@ -1,192 +1,205 @@
+# 🐝 @carulena
+
+*developer • researcher • full stack • bee enthusiast*
+
+```
+══════════════════════════════════════════════════════════════
+🟢 ONLINE NOW
+
+📍 Brazil
+💻 Full Stack Developer @ Thomson Reuters
+🎓 MSc in Applied Computing
+☕ Probably drinking coffee.
+🎲 Current side quest: Finish my master's thesis.
+🐶 Puffy is probably waiting for me to stop coding.
+══════════════════════════════════════════════════════════════
+```
 <div align="center">
-
-# ✿ welcome to my little corner of the internet ✿
-
-<img src="https://readme-typing-svg.demolab.com?font=Verdana&size=16&pause=999999&color=FF69B4&center=true&vCenter=true&width=500&lines=currently+online+%E2%9C%A8" />
-
-<img src="https://i.imgur.com/4M7IWwP.gif" height="25">
-
-```
-last updated :: july 2026
-```
-
+</br>
+<a href="https://linkedin.com/in/ane-simoes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+</br>
+<a href="https://orcid.org/0009-0005-6533-0961">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white">
+</a>
+</br>
+<img src="https://komarev.com/ghpvc/?username=carulena&style=flat-square&color=9ad0a5"/>
+</br>
+<a href="https://carulena.github.io">
+    <img src="https://img.shields.io/badge/🌱_ENTER_MY_DIGITAL_GARDEN-9AD0A5?style=for-the-badge&labelColor=E8F7E4"/>
+</a>
 </div>
 
 ---
 
-<table>
-<tr>
+---
 
-<td width="280" valign="top">
+# 🐦 timeline
 
-## 🌸 profile.exe
-
-```
-name
-✦ Ane Carolina
-
-location
-✦ Brazil 🇧🇷
-
-occupation
-✦ Full Stack Developer
-
-currently
-✦ MSc Student
-
-favorite language
-✦ Python 🐍
-
-status
-
-🟢 online
-```
+> 🐝 **@carulena**
+>
+> Trying to convince a Random Forest where bees should live.
+>
+> *2 minutes ago* • ♡ 42 • ↻ 8
 
 ---
 
-## ☕ currently
-
-```
-🌱 building EcoToolBox
-
-🐝 researching bees
-
-🗺 making maps
-
-☕ drinking coffee
-
-🎧 listening to music
-
-✨ trying not to break production
-```
+> 🎲 **@carulena**
+>
+> Spent more time planning my board game strategy than writing code today.
+>
+> Worth it.
+>
+> *2h ago* • ♡ 28 • ↻ 3
 
 ---
 
-## 💌 links
-
-- LinkedIn
-- ORCID
-- Google Scholar
-- Email
+> 🐶 **@carulena**
+>
+> Puffy has officially inspected today's code.
+>
+> He still looks unconvinced.
+>
+> *Yesterday* • ♡ 67 • ↻ 9
 
 ---
 
-visitor
+> ☕ **@carulena**
+>
+> FastAPI behaved today.
+>
+> I'm suspicious.
+>
+> *Yesterday* • ♡ 26 • ↻ 4
 
-![](https://komarev.com/ghpvc/?username=YOURUSER&style=flat-square&color=ff69b4)
+---
 
-</td>
+> 🛰️ **@carulena**
+>
+> Downloaded another few million biodiversity records.
+>
+> Wish me luck.
+>
+> *3 days ago* • ♡ 134 • ↻ 31
 
-<td valign="top">
+---
 
-# 🌱 digital garden
+> 🎮 **@carulena**
+>
+> Weekend plan:
+>
+> ✔ play games
+>
+> ✔ cuddle Puffy
+>
+> ✔ maybe finish writing a paper
+>
+> *Last weekend* • ♡ 51 • ↻ 7
 
-<table>
+---
 
-<tr>
-<td>
+# 📌 pinned posts
 
-## 🌿 EcoLab
+## 🌿 EcoLab.exe
 
 Desktop application for Species Distribution Modeling.
 
-</td>
+- FastAPI
+- React
+- Machine Learning
+- GIS
 
-<td>
+---
 
-## 🌎 EcoEnv
+## 🌍 EcoEnv
 
-Environmental variables from Google Earth Engine and WorldClim.
+- Sentinel-2
+- WorldClim
+- Google Earth Engine
 
-</td>
-</tr>
-
-<tr>
-<td>
+---
 
 ## 📍 EcoObs
 
-Species occurrences from GBIF, iNaturalist and SpeciesLink.
+- GBIF
+- iNaturalist
+- SpeciesLink
 
-</td>
-
-<td>
+---
 
 ## 🕸 EcoInteract
 
-Ecological interaction networks powered by GloBI.
-
-</td>
-</tr>
-
-</table>
+Species interaction networks powered by GloBI.
 
 ---
 
-# 💾 recent updates
+# 👤 about
 
-```
-★ published EcoEnv
+```text
+Name
+Ane Carolina
 
-★ writing my master's thesis
+Occupation
+Full Stack Developer
 
-★ improving EcoLab
+Research
+Species Distribution Modeling
 
-★ drinking another coffee
+Current mission
+Building EcoToolBox 🌱
 
-★ pretending everything is under control
+Status
+🟢 Online
+
+Mood
+☕ + 🐝 + 🎮
+
+Companion
+🐶 Puffy
 ```
 
 ---
 
-# ✨ tech shrine
+# 💚 following
 
-<p>
+🐝 Bees
 
-<img src="https://skillicons.dev/icons?i=python,cs,react,fastapi,aws,docker,git,vscode"/>
+🐶 Puffy
 
+🎮 Cozy Games
+
+🎲 Board Games
+
+🌱 Biodiversity
+
+🌍 Earth Observation
+
+🗺 GIS
+
+☕ Coffee
+
+💚 Open Source
+
+---
+
+# 💾 installed software
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cs,react,fastapi,aws,docker,git,linux,postgres,vscode"/>
 </p>
 
 ---
 
-# 🌼 research
+```
+Last save point reached ✔
 
-- Species Distribution Modeling
-- Biodiversity Informatics
-- Remote Sensing
-- Machine Learning
-- Ecological Networks
+Current quests:
+☐ Finish master's thesis
+☐ Release the next EcoLab update
+☐ Walk Puffy
+```
 
 ---
 
-<div align="center">
-
-### ★ github stats ★
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURUSER&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSER&layout=compact&hide_border=true"/>
-
-</div>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
-
-```
-──────────────────────────────────────
-
-made with
-python ☕ glitter ✨ and lots of curiosity
-
-best viewed while drinking coffee
-
-──────────────────────────────────────
-```
-
-</div>
+Thanks for visiting my little corner of the internet 🌱
